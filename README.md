@@ -1,4 +1,4 @@
-<h1>Hi, I'm Q </br> I'm a passionate individual trying to dive into the field of Cyber Security! </h1>
+<h1>Hi, I'm Q. </br> I'm a passionate individual trying to dive into the field of Cyber Security. </h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
