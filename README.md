@@ -1,6 +1,6 @@
-<h1>Hi, I'm Q </h1>
+<h1>Hi, I'm Q </br> I'm a passionate individual trying to dive into the field of Cyber Security! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 MY Projects:</h2>
 
 - <b>Azure / Cloud Project</b>
   - [Builidng a SOC + Hoeny in Azure](https://github.com/kangQlee/Azure-SOC)
